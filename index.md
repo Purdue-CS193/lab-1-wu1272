@@ -1,3 +1,9 @@
+# First Lab CS193
+
+### Favorite things about CS193
+- Attendance points
+- Only once a week
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -15,8 +21,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- **Bulleted**
-- **List**
+- Bulleted
+- List
 
 1. _Numbered_
 2. _List_
